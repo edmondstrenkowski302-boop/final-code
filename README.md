@@ -1,7 +1,9 @@
 # PYTHON TUTORIAL 
 
 print("==============================")
+
 print("        PYTHON TUTORIAL")
+
 print("==============================")
 
 choice = ""
@@ -60,7 +62,7 @@ while choice != "0":
         print("a or b  :", a or b)    # True if at least ONE is True
         print("not a   :", not a)     # reverses the result
 
-    # ---------------- PART 5 ----------------
+    # ---------------- PART 5 -------------------------
     elif choice == "5":
         print()
         print("--- Part 5: Conditional Statements ---")
@@ -83,7 +85,7 @@ while choice != "0":
         else:
             print("Child")
 
-    # ---------------- QUIZ ----------------
+    # ---------------- QUIZ ------------------
     elif choice == "6":
         print()
         print("--- Quiz ---")
