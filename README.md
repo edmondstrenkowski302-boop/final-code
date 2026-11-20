@@ -192,11 +192,11 @@ while choice != "0":
         if score == 5:
             print("Excellent! Perfect score!")
         elif score == 4:
-            print("Good job! Konti na lang!")
+            print("Good job!!")
         elif score == 3:
             print("Nice! Good job!")
         else:
-            print("Try again! Kaya mo yan!")
+            print("Try again!!")
         print("==============================")
 
     # ---------------- END ----------------
