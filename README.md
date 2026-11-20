@@ -10,7 +10,7 @@ choice = ""
 
 while choice != "0":
     print()
-    print("===== MAIN MENU =====")
+    print("===== PYTHON LESSON =====")
     print("1. Part 1 - What is Python?")
     print("2. Part 2 - Printing Output")
     print("3. Part 3 - Basic Data Types")
@@ -20,7 +20,7 @@ while choice != "0":
     print("0. End the program")
     choice = input("Choose: ")
 
-    # ---------------- PART 1 ----------------
+    # ---------------- PART 1 --------------------
     if choice == "1":
         print()
         print("--- Part 1: What is Python? ---")
